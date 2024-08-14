@@ -6,12 +6,13 @@
 Primeiramente, para acessar o <strong >GITbash </strong> , clique com o botão 
 direito na sua área de trabalho ou na pasta que você desejar.<br>
 
+Abrir o GIT
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 Depois abra a opção <font color= yellow> <strong>"Open Git Bash here"</font>  
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 
 # <font color=orange>Comandos do GIT</font> <br>
